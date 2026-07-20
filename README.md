@@ -25,8 +25,6 @@ Tools Used
 • XLOOKUP  
 • Conditional Formatting  
 • Slicers  
-Dashboard Preview 
-() 
 Key Insights 
 • Identified the highest-performing sales region.  
 • Determined the best-selling product category.  
